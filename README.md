@@ -26,9 +26,6 @@ Run the application using Streamlit:
 streamlit run app.py
 ```
 
-## 📸 Screenshot
-![Password Generator UI](https://your-image-link.com)
-
 ## 💡 Built With
 - Python 🐍
 - Streamlit 🎈
