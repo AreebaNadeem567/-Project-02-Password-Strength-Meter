@@ -38,5 +38,4 @@ Developed with ❤️ by [Areeba Nadeem](https://github.com/AreebaNadeem567)
 Contributions are welcome! Feel free to fork the repository, create a new branch, and submit a pull request.
 
 ## 📜 License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
+This project is open-source and available for modification and distribution.
